@@ -1,0 +1,1 @@
+My R scripts mainly have to do with linguistic data and processing vocabulary from texts
