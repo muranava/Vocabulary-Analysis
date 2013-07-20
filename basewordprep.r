@@ -1,0 +1,20 @@
+base1 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd1.txt", header=FALSE, sep=" ")
+base2 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd2.txt", header=FALSE, sep="\t")
+base3 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd3.txt", header=FALSE, sep="\t")
+base4 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd4.txt", header=FALSE, sep="\t")
+base5 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd5.txt", header=FALSE, sep="\t")
+base6 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd6.txt", header=FALSE, sep="\t")
+base7 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd7.txt", header=FALSE, sep="\t")
+base8 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd8.txt", header=FALSE, sep="\t")
+base9 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd9.txt", header=FALSE, sep="\t")
+base10 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd10.txt", header=FALSE, sep="\t")
+base11 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd11.txt", header=FALSE, sep="\t")
+base12 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd12.txt", header=FALSE, sep="\t")
+base13 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd13.txt", header=FALSE, sep="\t")
+base14 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd14.txt", header=FALSE, sep="\t")
+base15 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd15.txt", header=FALSE, sep="\t")
+base16 = read.table(file="C:/Users/joshua/Dropbox/text/range/basewrd16.txt", header=FALSE, sep="\t")
+
+
+
+write.table(base1done,file="C:/Users/joshua/Dropbox/text/range/basewrd1.txt",sep="\t",row.names = F)
